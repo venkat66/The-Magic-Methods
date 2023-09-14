@@ -120,7 +120,7 @@ Steps To install and run Codestego's Discord bot , follow these steps:
          - Read Message History
          - Use External Emojis
 
-   - Scroll to top of the page and Click on Reset Secret and confirm and copy the token and save it somewhere safe.
+   - Go to Bot section and click on Reset token confirm and copy the token and save it somewhere safe.
    - Go to Oauth2=>URL Generator section and check these options
       - Scopes:
          - bot
